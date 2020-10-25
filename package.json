@@ -1,0 +1,19 @@
+{
+  "name": "ui-bootstrap-materialpicker",
+  "version": "1.0.0",
+  "description": "Material Design Color Picker directive for AngularJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IntentSoftware/ui.bootstrap.materialPicker.git"
+  },
+  "author": "Sylvain Tudela <sylvain.tudela@greencom-networks.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IntentSoftware/ui.bootstrap.materialPicker/issues"
+  },
+  "homepage": "https://github.com/IntentSoftware/ui.bootstrap.materialPicker#readme"
+}

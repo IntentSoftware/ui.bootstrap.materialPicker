@@ -1,3 +1,9 @@
+# Fork
+
+This fork adds:
+- `package.json` so that package can be installed with `npm`
+- Basic CommonJS support for webpack.
+
 # ui.bootstrap.materialPicker
 
 Material Design Color Picker directive for AngularJS.
